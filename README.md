@@ -1,4 +1,4 @@
-### Worksop Project Submission Template: Github Repository & Zip File dd
+### Worksop Project Submission Template: Github Repository & Zip File ddjh
 
 **[Naming Convention]** CourseCode-StartDate-BatchCode-Group_or_Individual-TeamName_or_PersonName-ProjectName.zip
 
