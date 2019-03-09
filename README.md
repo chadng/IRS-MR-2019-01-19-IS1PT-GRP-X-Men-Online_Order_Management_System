@@ -90,7 +90,8 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 * [DoReMi Books Product.xlsx](https://tinyurl.com/y667ucum/DoReMi%20Books%20Product.xlsx "DoReMi Books Product.xlsx")
 * [DoReMi Online Order Mgt Process Flow v1.6.pdf](https://tinyurl.com/y667ucum/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
 * [DoReMe Books Process Flow v2.5.pdf](https://tinyurl.com/y667ucum/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
-
+* [NRules Source Code SnapShot](https://tinyurl.com/y5hwsomh/NRules_develop.zip "NRules Source Code SnapShot")
+---
 * [Meetings and Conference Calls Recaps](https://tinyurl.com/y667ucum/Meetings "Meetings and Conference Calls Recaps")
 
 
