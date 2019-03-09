@@ -80,8 +80,11 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 ---
 ## SECTION 7 : MISCELLANEOUS
 
-### 123
-* 123
+### References / Useful Documentations
+* Tortoise SVN Guide.pdf <Miscellaneous/Tortoise SVN Guide.pdf>
+* DoReMi Books Product.xlsx <Miscellaneous/DoReMi Books Product.xlsx>
+* DoReMi Online Order Mgt Process Flow v1.6.pdf <Miscellaneous/DoReMi Online Order Mgt Process Flow v1.6.pdf>
+* DoReMe Books Process Flow v2.5.pdf <Miscellaneous/DoReMe Books Process Flow v2.5.pdf>
 
 ---
 
