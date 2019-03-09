@@ -39,7 +39,7 @@ Our primary objective is to solve the business problems which are typically enco
 ---
 ## SECTION 5 : USER GUIDE
 
-`<Github File Link>` : <https://github.com/chadng/MTech2019_Group_Project.git>
+`<Github File Link>` : <https://github.com/chadng/MTech2019_Group_Project>
 
 ### Development Tools & Environment
 - **Visual Studio 2017 (Community Edition)**. (https://visualstudio.microsoft.com/) 
@@ -55,7 +55,7 @@ Our primary objective is to solve the business problems which are typically enco
 ### Live Version
 Project is also released in azure: https://doremiwebapp.azurewebsites.net
 
-## Credit
+### Credit
 [Inventory order management system by go2ismail](https://github.com/go2ismail/Asp.Net-Core-Inventory-Order-Management-System)
 
 ---
