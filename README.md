@@ -23,7 +23,7 @@ In response to the new challenges brought on by online sales transactions, the c
 
 Based on machine reasoning concepts and how logical rules and knowledge can be inferred with a reasoning based system, our group of five members, brainstormed and decided to build a system with hybrid architecture (NRules Engine and Web MVC technology) and automate, as much as we can, the business or functions based on the knowledge gleaned from: (a) feedback from the management board,  (b) current order handling processes and, (c) business issues encountered in current existing processes. 
 
-We set out first by getting a good understanding of the overall key processes of the proposed solution by mapping them out with data acquisition modelling. We then determined the areas of improvements that we agreed should be implemented into the new business processes. We also make sure we analyse the processes with our improvements and see how these improvements would be handled with test cases to validate our assumptions.
+We begin by getting a good understanding of the overall key processes of the proposed solution by mapping them out with data acquisition modelling. Next, we determined the areas of improvements that we agreed should be implemented into the new business processes. We also made sure we analyse the processes with our improvements and see how these improvements were handled with test cases to validate our assumptions.
 
 Our primary objective is to solve the business problems which are typically encountered in many traditional businesses which naturally includes DoReMi’s books ordering business processes.
 
