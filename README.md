@@ -8,7 +8,7 @@
 
 
 <img src="Media/Images/OrderProcessFlow.jpg"
-     style="float: left; margin-right: 0px;" />
+     style="float: left; margin-right: 0px; width: 1300px; height: 900px;" />
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
