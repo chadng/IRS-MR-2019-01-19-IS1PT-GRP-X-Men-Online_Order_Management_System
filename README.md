@@ -81,14 +81,18 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 ## SECTION 7 : MISCELLANEOUS
 
 ### References / Useful Documentations
-* Tortoise SVN Guide.pdf <Miscellaneous/Tortoise SVN Guide.pdf>
-* DoReMi Books Product.xlsx <Miscellaneous/DoReMi Books Product.xlsx>
-* DoReMi Online Order Mgt Process Flow v1.6.pdf <Miscellaneous/DoReMi Online Order Mgt Process Flow v1.6.pdf>
-* DoReMe Books Process Flow v2.5.pdf <Miscellaneous/DoReMe Books Process Flow v2.5.pdf>
+* [Tortoise SVN Guide.pdf] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/Tortoise%20SVN%20Guide.pdf "Miscellaneous/Tortoise SVN Guide.pdf")
+* DoReMi Books Product.xlsx (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi%20Books%20Product.xlsx "DoReMi Books Product.xlsx")
+* DoReMi Online Order Mgt Process Flow v1.6.pdf https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
+* DoReMe Books Process Flow v2.5.pdf (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
 
 ---
 
 
+
+
+
+[NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore")
 
 
 **This [Machine Reasoning (MR)](https://www.iss.nus.edu.sg/executive-education/course/detail/machine-reasoning "Machine Reasoning") course is part of the Analytics and Intelligent Systems and Graduate Certificate in [Intelligent Reasoning Systems (IRS)](https://www.iss.nus.edu.sg/stackable-certificate-programmes/intelligent-systems "Intelligent Reasoning Systems") series offered by [NUS-ISS](https://www.iss.nus.edu.sg "Institute of Systems Science, National University of Singapore").**
