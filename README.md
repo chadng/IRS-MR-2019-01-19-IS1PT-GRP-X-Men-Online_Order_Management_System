@@ -87,9 +87,10 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 
 ### References / Useful Documentations
 * [Tortoise SVN Guide.pdf](https://tinyurl.com/y667ucum/Tortoise%20SVN%20Guide.pdf "Tortoise SVN Guide.pdf")
-* [DoReMi Books Product.xlsx] (https://tinyurl.com/y667ucum/DoReMi%20Books%20Product.xlsx "DoReMi Books Product.xlsx")
-* [DoReMi Online Order Mgt Process Flow v1.6.pdf] (https://tinyurl.com/y667ucum/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
-* [DoReMe Books Process Flow v2.5.pdf] (https://tinyurl.com/y667ucum/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
+* [DoReMi Books Product.xlsx](https://tinyurl.com/y667ucum/DoReMi%20Books%20Product.xlsx "DoReMi Books Product.xlsx")
+* [DoReMi Online Order Mgt Process Flow v1.6.pdf](https://tinyurl.com/y667ucum/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
+* [DoReMe Books Process Flow v2.5.pdf](https://tinyurl.com/y667ucum/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
+
 
 ---
 
