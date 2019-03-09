@@ -86,10 +86,10 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 ## SECTION 7 : MISCELLANEOUS
 
 ### References / Useful Documentations
-* [Tortoise SVN Guide.pdf] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/Tortoise_SVN_Guide.pdf "Miscellaneous/Tortoise SVN Guide.pdf")
-* DoReMi Books Product.xlsx (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi%20Books%20Product.xlsx "DoReMi Books Product.xlsx")
-* DoReMi Online Order Mgt Process Flow v1.6.pdf https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
-* DoReMe Books Process Flow v2.5.pdf (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
+* [Tortoise SVN Guide.pdf] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous "Miscellaneous/Tortoise SVN Guide.pdf")
+* [DoReMi Books Product.xlsx] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi_Books_Product.xlsx "DoReMi Books Product.xlsx")
+* [DoReMi Online Order Mgt Process Flow v1.6.pdf] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMi_Online_Order_Mgt_Process_Flow_v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
+* [DoReMe Books Process Flow v2.5.pdf] (https://github.com/chadng/IRS-MR-2019-01-19-IS1PT-GRP-X-Men-Online_Order_Management_System/blob/master/Miscellaneous/DoReMe_Books_Process_Flow_v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
 
 ---
 
