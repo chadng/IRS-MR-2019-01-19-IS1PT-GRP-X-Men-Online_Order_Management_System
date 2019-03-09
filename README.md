@@ -28,7 +28,7 @@ Our primary objective is to solve the business problems which are typically enco
 
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
-| NG CHOON BENG | A0195327X | Project Management, Business process change consultant, Change Management| e0384958@u.nus.edu |
+| NG CHOON BENG CHAD | A0195327X | Project Management, Business process change consultant, Change Management| e0384958@u.nus.edu |
 | SUN HANG | A0105742M | Technical Lead, Solution Design and Software development| e0384337@u.nus.edu |
 | JIN XIN | A0066966L | Key development, principle developer, Rules coding | e0384232@u.nus.edu |
 | XU DONGBIN | A0018636A | Machine Learning Analyst, Gather AI system requirements| e0384187@u.nus.edu |
