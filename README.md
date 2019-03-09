@@ -1,4 +1,4 @@
-## SECTION 1 : DoReMi online Order Ordering system
+## SECTION 1 : DoReMi online Order Management system
 (Includes Inventory Control and Management)
 
 
@@ -37,7 +37,7 @@ Our primary objective is to solve the business problems which are typically enco
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![online music books ordering system](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+[![online ordering Management system](Media/Images/video.jpg)](https://xxxx/xxxx "DoReMe Online Order Management System")
 
 ---
 ## SECTION 5 : USER GUIDE
@@ -64,7 +64,7 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/chadng/MTech2019_Group_Project/blob/Readme/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/chadng/MTech2019_Group_Project/blob/Readme/ProjectReport/xxxxx.pdf>
 
 **Recommended Sections for Project Report / Paper:**
 - EXECUTIVE SUMMARY
