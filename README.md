@@ -1,5 +1,5 @@
 ## SECTION 1 : DoReMi online Order Ordering system
-## (Includes Inventory Control and Management)
+(Includes Inventory Control and Management)
 
 
 <img src="Media/Images/login_screen.jpg"
