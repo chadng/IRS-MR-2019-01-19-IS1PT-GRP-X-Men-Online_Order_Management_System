@@ -60,7 +60,7 @@ Our primary objective is to solve the business problems which are typically enco
 * Clone this repo
 * Open doremi.sln and make sure you have selected doremi
 * click IIS Express
-* ![run](doremi/wwwroot/images/run.png)
+* Run
 
 ### Live Version
 Project is also released in azure: https://doremiwebapp.azurewebsites.net
