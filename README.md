@@ -1,4 +1,5 @@
-## SECTION 1 : DoReMi online Order Management system
+## SECTION 1 : DoReMi Online Order Management system
+---
 (Includes Inventory Control and Management)
 
 
