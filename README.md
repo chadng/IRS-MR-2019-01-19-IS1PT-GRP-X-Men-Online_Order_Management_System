@@ -91,6 +91,8 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 * [DoReMi Online Order Mgt Process Flow v1.6.pdf](https://tinyurl.com/y667ucum/DoReMi%20Online%20Order%20Mgt%20Process%20Flow%20v1.6.pdf "DoReMi Online Order Mgt Process Flow v1.6.pdf")
 * [DoReMe Books Process Flow v2.5.pdf](https://tinyurl.com/y667ucum/DoReMe%20Books%20Process%20Flow%20v2.5.pdf "DoReMe Books Process Flow v2.5.pdf")
 * [Sales Order Transaction Process Flow Chart_v2.0.pdf](https://tinyurl.com/y667ucum/Sales_Order_Transaction_Process_Flow_Chart_v2.0.pdf "Sales Order Transaction Process Flow Chart_v2.0.pdf")
+* [User Guide v1.3.pdf](https://tinyurl.com/y4dhyfhe/User%20Guide%20v1.3.pdf "User Guide v1.3.pdf")
+
 * [NRules Source Code SnapShot](https://tinyurl.com/y5hwsomh/NRules_develop.zip "NRules Source Code SnapShot")
 ---
 * [Meetings and Conference Calls Recaps](https://tinyurl.com/y667ucum/Meetings "Meetings and Conference Calls Recaps")
