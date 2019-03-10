@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="doremi.wwwroot.content.ejservices.wcf.PivotGrid.Relational" CodeBehind="Relational.svc.cs" %>
