@@ -42,7 +42,7 @@ Our primary objective is to solve the business problems which are typically enco
 ---
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
-[![online ordering Management system](Media/Images/video.jpg)]("DoReMe Online Order Management System")
+[![online ordering Management system](Media/Video/video.mp4)]("DoReMe Online Order Management System")
 
 ---
 ## SECTION 5 : USER GUIDE
