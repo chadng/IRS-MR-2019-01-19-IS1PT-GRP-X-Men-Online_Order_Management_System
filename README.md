@@ -71,7 +71,7 @@ Project is also released in azure: https://doremiwebapp.azurewebsites.net
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/chadng/MTech2019_Group_Project/blob/Readme/ProjectReport/Project_Report.pdf>
+* [Project Report v1.3](https://tinyurl.com/y6ag66ra/Project_Report_version_1.3.pdf "Project Report v1.3")
 
 **Recommended Sections for Project Report / Paper:**
 - EXECUTIVE SUMMARY
